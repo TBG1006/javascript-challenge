@@ -3,7 +3,7 @@ var tableData = data;
 
 // YOUR CODE HERE!
 
-// Using the UFO dataset provided, append a table to a web page and then adds new rows of data for each UFO sighting.
+// Same code to populate table data
 var tbody = d3.select("tbody");
 var option_list = [];
 
