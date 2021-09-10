@@ -1,9 +1,6 @@
 # javascript-challenge
 
-## Result
-
-[Visit Website Here](https://tbg1006.github.io/javascript-challenge/)
-
+## [Visit Website Here](https://tbg1006.github.io/javascript-challenge/)
 
 ## Background
 
